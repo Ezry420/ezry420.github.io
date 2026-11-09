@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ph.occ.payroll",
+    "sha256_cert_fingerprints": ["10:9A:74:C8:C8:66:59:43:D8:FA:3D:FF:94:0E:22:9D:89:68:49:41:58:48:C4:0A:A9:1E:75:6B:DA:CB:02:72"]
+  }
+}]
